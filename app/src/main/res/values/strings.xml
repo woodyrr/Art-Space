@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="best_take_desk"> voting/takes app where users are able to vote and comment.</string>
+    <string name="recipes_desk"> This is recipe website that uses the meal DB API with a nice responsive user interface.</string>
+    <string name="e_commerce_desk"> An E-commerce application for buying candle, lotion  and tea products. </string>
+    <string name="portfolio_desk"> My personnel portfolio websites in one place </string>
+</resources>
